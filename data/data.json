@@ -1,0 +1,19 @@
+[
+  {
+    "m_employee_id": 1,
+    "nama_karyawan": "Aldi",
+    "tanggal_lahir": "1999-01-01",
+    "alamat": "Jl. Palsu No. 123",
+    "email": "example1@mail.com",
+    "hubungan_keluarga": {
+      "nama_anggota_keluarga": "Sara",
+      "tanggal_lahir_anggota_keluarga": "2000-02-02"
+    },
+    "valid_from": "2022-06-06",
+    "valid_to": "2032-08-08",
+    "create_by": 101,
+    "create_date": "2025-01-01",
+    "updated_by": 102,
+    "updated_date": "2025-03-15"
+  }
+]
